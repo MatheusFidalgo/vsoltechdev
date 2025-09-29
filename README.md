@@ -35,3 +35,9 @@ Siga estes passos simples para clonar o repositório e rodar o projeto em sua m�
 O projeto estará acessível em `http://localhost:3000`.
 
 ---
+### Decisões de Design/Arquitetura
+
+1. Organização foi feita de maneira modular, para tornar o projeto facil para manutenções e colaborações.
+2. Foi escolhida a React Context API por já ser nativa e atender a necessidade do projeto.
+3. Componentes bem divididos para evitar repetição de código, como por exemplo header, cartitem e productcard.
+4. Simulação dos dados foi feita a partir de mocks locais para testar a resposta de uma API de maneira clara.
