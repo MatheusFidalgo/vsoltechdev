@@ -14,7 +14,7 @@ Siga estes passos simples para clonar o repositório e rodar o projeto em sua m�
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/MatheusFidalgo/vsoltechdev.git](https://github.com/MatheusFidalgo/vsoltechdev.git)
+    git clone https://github.com/MatheusFidalgo/vsoltechdev.git
     ```
 
 2.  **Entre na pasta do projeto:**
